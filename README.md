@@ -1,6 +1,8 @@
-Hi everyone,
+Hi everyone :wave:,
 
-My name is **Mateus**, I am a **software deveoper** and former **mathematician**.
+My name is **Mateus**, I am a **software developer** :computer: and former **mathematician** :mortar_board:. 
+
+### I am looking for a job!
 
 I like to work with
 
@@ -24,7 +26,7 @@ I like to work with
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-I also have already worked with
+I also have worked with
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
